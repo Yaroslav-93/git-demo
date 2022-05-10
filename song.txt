@@ -4,11 +4,8 @@ standing strong
 on this their chosen battle field
 
 Form the lines
-<<<<<<< HEAD
 Shield by shield
 Side by side
 We're marching into destiny
----------------------------------
-=======
-Shield by shield
->>>>>>> 753956069ddf550646f042f36074ab65e048a72d
+
+
